@@ -1,10 +1,12 @@
 # form
 
-A new Flutter project.
+A new Flutter project. Download only the lib Folder and paste it into your flutter project 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+if you want to run the project I would recommend only downloading the lib folder, because this is not full
 
 A few resources to get you started if this is your first Flutter project:
 
