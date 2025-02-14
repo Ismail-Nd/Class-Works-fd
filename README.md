@@ -1,6 +1,9 @@
-# form
+# Flutter Form
 
-A new Flutter project. Download only the lib Folder and paste it into your flutter project 
+A Flutter project for a simple form. Download only the lib Folder and paste it into your Flutter project.
+
+![Screen Shot 2025-02-14 at 10 56 58 PM](https://github.com/user-attachments/assets/2d073b86-61c8-478e-bb38-89ea30ee2860)
+
 
 ## Getting Started
 
